@@ -1,2 +1,4 @@
 hello there i am studying web development with odin project!
 if you also want to study web development you can join the odin community!
+
+hey! today is july 24!
